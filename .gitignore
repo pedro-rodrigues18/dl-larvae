@@ -1,3 +1,5 @@
 images/*
+larvae/*
+notebooks/*.pth
 .ipynb_checkpoints/
 poetry.lock
